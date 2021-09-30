@@ -1,4 +1,4 @@
-# webi_canister_api
+# webi_map_api
 api for webI that uses sudograph
 
 
