@@ -117,7 +117,6 @@ type PointOfInterest {
     parking: String!
     social_facility: String!
     books: String!
-    butcher: String!
     clothes: String!
     erotic: String!
     religion: String!
@@ -193,7 +192,7 @@ type PointOfInterest {
     bbq: String!
     fitness_centre: String!
     car: String!
-    pub: String!
+    pub_or_bar: String!
     supermarket: String!
     art: String!
     car_repair: String!

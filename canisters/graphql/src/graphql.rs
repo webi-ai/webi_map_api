@@ -8,8 +8,6 @@ async fn graphql_mutation_custom(query: String, variables: String) -> String {
     //comment out for local dev (playground has no IC auth)
     //let principals= vec![
         //sudograph::ic_cdk::export::Principal::from_text("ryjl3-tyaaa-aaaaa-aaaba-cai").expect("should be able to decode"),
-        //let canister_principal = sudograph::ic_cdk::export::Principal::from_text("ryjl3-tyaaa-aaaaa-aaaba-cai").expect("should be able to decode");
-        //comment out for local dev (playground has no IC auth)
 
 
     //];
