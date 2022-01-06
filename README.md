@@ -4,7 +4,7 @@ api for webI that uses sudograph
 
 *optimized*
 
-need to install wasm ic optimizer
+need to install wasm ic optimizer in project directory
 
 
 
