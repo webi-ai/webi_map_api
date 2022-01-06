@@ -16,5 +16,9 @@ cargo install ic-cdk-optimizer --root target
 to run use 
 
 ```bash
-dfx deploy
+npm run dfx-deploy-local for local replica deployment
+
+or
+
+npm run dfx-deploy-ic for IC deployment
 ```
