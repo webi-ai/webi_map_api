@@ -25,7 +25,7 @@ npm run dfx-deploy-ic for IC deployment
 
 
 
-#faq
+# faq
 
 this error:
 ```
