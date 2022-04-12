@@ -30,3 +30,7 @@ need to install wasm ic optimizer in project directory
 cargo install ic-cdk-optimizer --root target
 ```
 
+then run optimize script
+```
+npm run dfx-optimize-graphql
+```
